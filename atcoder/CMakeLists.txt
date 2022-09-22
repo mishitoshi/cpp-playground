@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.23)
+project(cpp_playground)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(PracticeA ABS/PracticeA.cpp)
+add_executable(ABC086A ABS/ABC086A.cpp)
+add_executable(ABC081A ABS/ABC081A.cpp)
+add_executable(ABC081B ABS/ABC081B.cpp)
+add_executable(ABC087B ABS/ABC087B.cpp)
+add_executable(ABC083B ABS/ABC083B.cpp)
+add_executable(ABC088B ABS/ABC088B.cpp)
+add_executable(ABC085B ABS/ABC085B.cpp)
+add_executable(ABC085C ABS/ABC085C.cpp)
+add_executable(ABC049C ABS/ABC049C.cpp)
+add_executable(ABC086C ABS/ABC086C.cpp)
